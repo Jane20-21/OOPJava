@@ -27,6 +27,6 @@ public class Main {
 
         System.out.println("Муж Ирины");
         System.out.println(new Reserch(gt).spend(irina,
-                Relationship.vife));
+                Relationship.wife));
     }
 }
